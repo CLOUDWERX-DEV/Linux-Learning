@@ -1,6 +1,7 @@
 # Linux Learning Guide
 
-![Linux Logo](logo.png)
+<img src="logo.png" alt="Linux Logo" width="50%">
+
 
 ---
 
