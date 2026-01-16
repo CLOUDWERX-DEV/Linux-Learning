@@ -1,6 +1,8 @@
 # Linux Learning Guide
 
-<img src="logo.png" alt="Linux Logo" width="50%">
+<p align="center">
+  <img src="logo.png" alt="Linux Logo" width="50%">
+</p>
 
 
 ---
