@@ -143,10 +143,14 @@ We'll start with the absolute basics and gradually build up your knowledge. Don'
 27. [Troubleshooting Guide](#troubleshooting-guide)
 
 ### Resources
-28. [Useful Tips and Tricks](#useful-tips-and-tricks)
-29. [Practice Exercises](#practice-exercises)
-30. [Additional Resources](#additional-resources)
-31. [Quick Reference Card](Card.md)
+28. [Command Line Shortcuts](#command-line-shortcuts)
+29. [Essential Commands](#essential-commands)
+30. [Useful Aliases](#useful-aliases)
+31. [Common Patterns](#common-patterns)
+32. [One-Liners That Save Time](#one-liners-that-save-time)
+33. [Additional Resources](#additional-resources)
+34. [Practice Exercises](#practice-exercises)
+35. [Quick Reference Card](Card.md)
 
 ---
 
